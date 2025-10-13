@@ -1,0 +1,424 @@
+[
+  {
+    "id": 101,
+    "slug": "eps-granule-press-line",
+    "category": "eps-press",
+    "title": {
+      "en": "Uniform Board (Granule-Press) Automatic Line",
+      "zh": "匀质板（颗粒模压型）全自动设备",
+      "ru": "Автолиния равномерных плит (гранулы/пресс)",
+      "kk": "Біртекті тақта (түйіршік-пресс) толық автоматты желісі"
+    },
+    "thumb": "/assets/products/vibor-eps-press-1.jpg",
+    "gallery": ["/assets/products/vibor-eps-press-1.jpg"],
+    "badges": ["A2", "High throughput"],
+    "specs": {
+  "en": ["Auto batching · pressing · curing", "Stable density distribution"],
+  "zh": ["自动配料 · 压制 · 养护", "密度分布稳定"],
+  "ru": ["Автоматическое дозирование · прессование · выдержка", "Равномерное распределение плотности"],
+  "kk": ["Автоматты дозалау · престеу · шынықтыру", "Тығыздықтың тұрақты бөлінуі"]
+}
+,
+    "desc": {
+      "en": "Integrated line for A2 uniform inorganic composite boards using granule pressing. Includes batching, molding, curing and packaging.",
+      "zh": "用于A2级无机匀质板的颗粒模压一体化生产线，含配料、成型、养护、包装等环节。",
+      "ru": "Интегрированная линия для A2 неорганических равномерных плит с гранульным прессованием: дозирование, формование, выдержка, упаковка.",
+      "kk": "A2 бейорганикалық біртекті тақталарға арналған түйіршікті престеу желісі: дозалау, қалыптау, шынықтыру, қаптау."
+    }
+  },
+  {
+    "id": 102,
+    "slug": "perlite-board-equipment",
+    "category": "perlite",
+    "title": {
+      "en": "Perlite Insulation Board Equipment",
+      "zh": "珍珠岩保温板设备",
+      "ru": "Оборудование для перлитовых теплоизоляционных плит",
+      "kk": "Перлит оқшаулағыш тақта жабдығы"
+    },
+    "thumb": "/assets/products/vibor-perlite-1.jpg",
+    "gallery": ["/assets/products/vibor-perlite-1.jpg"],
+    "badges": ["Mineral", "Energy efficient"],
+    "specs": {
+  "en": ["Uniform mixing and molding"],
+  "zh": ["均匀混合与成型"],
+  "ru": ["Равномерное смешивание и формование"],
+  "kk": ["Біркелкі араластыру және қалыптау"]
+}
+,
+    "desc": {
+      "en": "Production equipment for mineral perlite insulation boards with stable structure and low water absorption.",
+      "zh": "用于生产珍珠岩保温板的成套设备，结构稳定、吸水率低。",
+      "ru": "Комплекс для производства перлитовых плит: стабильная структура, низкое водопоглощение.",
+      "kk": "Перлит оқшаулағыш тақталарын өндіруге арналған кешен: тұрақты құрылым, су сіңіруі төмен."
+    }
+  },
+  {
+    "id": 103,
+    "slug": "cement-foamed-board-line",
+    "category": "cement-foam",
+    "title": {
+      "en": "Cement Foamed Insulation Board Equipment",
+      "zh": "水泥发泡保温板设备",
+      "ru": "Оборудование для цементно-пенных плит",
+      "kk": "Цемент көбік оқшаулағыш тақта жабдығы"
+    },
+    "thumb": "/assets/products/vibor-cement-foam-1.jpg",
+    "gallery": ["/assets/products/vibor-cement-foam-1.jpg"],
+    "badges": ["Lightweight", "Fast install"],
+    "specs": {
+  "en": ["Continuous foaming and curing"],
+  "zh": ["连续发泡与养护"],
+  "ru": ["Непрерывное вспенивание и выдержка"],
+  "kk": ["Үздіксіз көбіктендіру және шынықтыру"]
+}
+,
+    "desc": {
+      "en": "Continuous line for cement foamed boards with controlled density and curing profile.",
+      "zh": "连续式水泥发泡板生产线，密度与养护过程可控。",
+      "ru": "Непрерывная линия цементно-пенных плит с контролируемой плотностью и выдержкой.",
+      "kk": "Тұрақты тығыздығы мен шынықтыруы бақыланатын цемент көбікті тақта желісі."
+    }
+  },
+  {
+    "id": 104,
+    "slug": "stay-in-place-formwork-line",
+    "category": "stay-form",
+    "title": {
+      "en": "Stay-in-Place Composite Formwork Line",
+      "zh": "免拆复合保温模板生产线",
+      "ru": "Линия несъёмной композитной опалубки",
+      "kk": "Ажыратылмайтын құрама қалып өндіріс желісі"
+    },
+    "thumb": "/assets/products/vibor-stay-form-1.jpg",
+    "gallery": ["/assets/products/vibor-stay-form-1.jpg"],
+    "badges": ["Structural", "Insulated"],
+    "specs": {
+  "en": ["Panel forming and edge profiling"],
+  "zh": ["板材成型与边部成型"],
+  "ru": ["Формование панелей и профилирование кромок"],
+  "kk": ["Панель қалыптау және жиегін профилдеу"]
+}
+,
+    "desc": {
+      "en": "Formwork system that remains in place and provides insulation plus rigidity for cast-in-place walls.",
+      "zh": "用于现浇墙体的免拆模板系统，兼具保温与刚度。",
+      "ru": "Система несъёмной опалубки для монолитных стен с теплоизоляцией и жёсткостью.",
+      "kk": "Қалқымалы қабырғаларға арналған ажыратылмайтын қалып жүйесі: оқшаулау және қаттылық."
+    }
+  },
+  {
+    "id": 105,
+    "slug": "fiber-reinforced-board-equipment",
+    "category": "fiber-reinf",
+    "title": {
+      "en": "Fibre-Reinforced Insulation Board Equipment",
+      "zh": "纤维增强保温板设备",
+      "ru": "Оборудование для волокнистых армированных плит",
+      "kk": "Талшықпен нығайтылған оқшаулағыш тақта жабдығы"
+    },
+    "thumb": "/assets/products/vibor-fiber-1.jpg",
+    "gallery": ["/assets/products/vibor-fiber-1.jpg"],
+    "badges": ["Reinforced", "Durable"],
+   "specs": {
+  "en": ["Fiber dosing & dispersion control"],
+  "zh": ["纤维计量与分散控制"],
+  "ru": ["Дозирование волокон и контроль дисперсии"],
+  "kk": ["Талшықты мөлшерлеу және дисперсияны бақылау"]
+}
+,
+    "desc": {
+      "en": "Equipment for fibre-reinforced mineral boards, improving tensile strength and impact resistance.",
+      "zh": "用于纤维增强型矿物保温板的设备，提升抗拉与抗冲击性能。",
+      "ru": "Комплекс для армированных волокном минеральных плит: повышенная прочность и ударостойкость.",
+      "kk": "Талшықпен нығайтылған минералдық тақталарға арналған жабдық: созылу және соққыға төзімділік жоғары."
+    }
+  },
+  {
+    "id": 106,
+    "slug": "auto-cut-pack-line",
+    "category": "auto-cut-pack",
+    "title": {
+      "en": "Uniform Board Auto Cut & Pack Line",
+      "zh": "匀质板全自动切割包装生产线",
+      "ru": "Автоматическая линия резки и упаковки равномерных плит",
+      "kk": "Біртекті тақталарды автоматты кесу және қаптау желісі"
+    },
+    "thumb": "/assets/products/vibor-cut-pack-1.jpg",
+    "gallery": ["/assets/products/vibor-cut-pack-1.jpg"],
+    "badges": ["Automation", "Packaging"],
+    "specs": {
+  "en": ["High-precision cutting, auto stacking & wrapping"],
+  "zh": ["高精度切割，自动码垛与缠膜"],
+  "ru": ["Высокоточная резка, автоматическая укладка и обмотка"],
+  "kk": ["Жоғары дәлдікті кесу, автоматты штабельдеу және орау"]
+}
+,
+    "desc": {
+      "en": "High-precision cutting with automatic stacking and wrapping for stable outbound quality.",
+      "zh": "高精度切割并自动码垛、缠膜，确保出厂质量稳定。",
+      "ru": "Высокоточная резка с автоматической укладкой и обмоткой — стабильное качество отгрузки.",
+      "kk": "Жоғары дәлдіктегі кесу, автоматты штабельдеу және орау — тұрақты сапа."
+    }
+  },
+  {
+    "id": 107,
+    "slug": "auto-curing-semi-finished",
+    "category": "auto-cure",
+    "title": {
+      "en": "Semi-finished Board Auto Curing Equipment",
+      "zh": "匀质板半成品自动养护设备",
+      "ru": "Автоматическая выдержка полуфабрикатов плит",
+      "kk": "Жартылай дайын тақталарды автоматты шынықтыру жабдығы"
+    },
+    "thumb": "/assets/products/vibor-auto-cure-1.jpg",
+    "gallery": ["/assets/products/vibor-auto-cure-1.jpg"],
+    "badges": ["Curing", "Throughput"],
+    "specs": {
+  "en": ["Temperature & time profile control"],
+  "zh": ["温度与时间曲线控制"],
+  "ru": ["Контроль температурно-временного профиля"],
+  "kk": ["Температура және уақыт профилін басқару"]
+}
+,
+    "desc": {
+      "en": "Automated curing solution to ensure uniform strength development and throughput.",
+      "zh": "自动化养护系统，保证强度均衡增长并提升产能。",
+      "ru": "Автоматизированная выдержка для равномерного набора прочности и высокой производительности.",
+      "kk": "Біркелкі беріктікке жету және өнімділікті арттыру үшін автоматты шынықтыру жүйесі."
+    }
+  },
+  {
+  "id": 201,
+  "slug": "sanyi-insulation-board",
+  "category": "insulation-board",
+  "title": {
+    "en": "SANYI Thermal Insulation Board",
+    "zh": "三亿保温板",
+    "ru": "Теплоизоляционная плита SANYI",
+    "kk": "SANYI жылуоқшаулағыш тақтасы"
+  },
+  "thumb": "/assets/products/sanyi-insulation-board-1.jpg",
+  "gallery": ["/assets/products/sanyi-insulation-board-1.jpg"],
+  "badges": ["A2 fire rating", "Energy-efficient", "Lightweight"],
+  "specs": {
+  "en": [
+    "Inorganic composite core, stable thermal performance",
+    "Low water absorption, freeze–thaw resistant",
+    "Fast installation, cleaner jobsite"
+  ],
+  "zh": [
+    "无机复合芯材，导热性能稳定",
+    "吸水率低，抗冻融",
+    "安装快捷，施工更整洁"
+  ],
+  "ru": [
+    "Неорганический композитный сердечник, стабильные теплофизические свойства",
+    "Низкое водопоглощение, стойкость к замораживанию-оттаиванию",
+    "Быстрый монтаж, чистая стройплощадка"
+  ],
+  "kk": [
+    "Бейорганикалық композит өзек, жылуөткізгіштігі тұрақты",
+    "Су сіңіруі төмен, аяз-ерітуге төзімді",
+    "Орнату жылдам, алаң таза"
+  ]
+}
+,
+  "desc": {
+    "en": "SANYI Thermal Insulation Board is an inorganic composite wall panel engineered for A2 fire safety, durability and energy efficiency. It delivers stable thermal performance, low water absorption and good impact resistance, making it suitable for high-rise residential, commercial and industrial envelopes. Manufacturing steps include accurate raw-mixing, molding/pressing, controlled curing, cutting and surface finishing, ensuring consistent density and strength.",
+    "zh": "三亿保温板为无机复合类外墙保温板，兼具 A2 级防火、耐久与节能性能。其导热稳定、吸水率低、抗冲击性好，适用于高层住宅、商业与工业建筑外围护。生产流程包括原料精准配比→成型/模压→恒温恒湿养护→切割→表面处理，确保密度与强度一致。",
+    "ru": "Теплоизоляционная плита SANYI — это неорганическая композитная панель класса пожарной безопасности A2 с высокой долговечностью и энергоэффективностью. Обеспечивает стабильные теплофизические свойства, низкое водопоглощение и ударостойкость; применяется в ограждающих конструкциях жилых, коммерческих и промышленных зданий. Производство: точное дозирование смеси → формование/прессование → контролируемая выдержка → резка → финишная обработка.",
+    "kk": "SANYI жылуоқшаулағыш тақтасы — A2 өрт қауіпсіздігі, беріктік және энергия үнемділігімен ерекшеленетін бейорганикалық композит. Жылуөткізгіштігі тұрақты, су сіңіруі төмен, соққыға төзімді; тұрғын үй, коммерциялық және өнеркәсіптік ғимараттардың қаптамаларында қолданылады. Өндіріс кезеңдері: дәл араластыру → қалыптау/престеу → бақыланатын шынықтыру → кесу → бет өңдеу."
+  },
+"system": {
+  "en": "Thin plaster system with inorganic composite insulation board. The board forms the thermal layer; outside is basecoat + alkali-resistant mesh + finishing coat; inside is adhesive/anchor to the substrate. The system focuses on fire safety (A2), thermal efficiency, and long-term stability.",
+  "zh": "薄抹灰系统（无机复合保温板）。板材为保温层，外侧依次为抗裂砂浆、耐碱网格布、饰面层；内侧通过粘结/锚固与基层连接。系统强调 A2 级防火、保温节能与长期耐久稳定。",
+  "ru": "Система тонкого штукатурного слоя с неорганической композитной плитой. Плита образует теплоизоляцию; снаружи базовый слой + щелочестойкая сетка + финиш; изнутри — клей/анкеры к основанию. Акцент на пожаробезопасности A2, энергоэффективности и долговечности.",
+  "kk": "Жұқа сылақ жүйесі (бейорганикалық композит оқшаулағыш тақта). Тақта — жылуоқшаулау қабаты; сыртқы жағында негізгі ерітінді + сілтіге төзімді тор + әрлеу қабаты; ішкі жағында желім/анкер арқылы негізге бекітіледі. Негізгі артықшылықтары: A2 өрт қауіпсіздігі, энергия тиімділігі, ұзақ мерзімді тұрақтылық."
+},
+"advantages": {
+  "en": [
+    "High thermal performance; stable λ and continuous insulation layer",
+    "Green & low-VOC; no formaldehyde or irritating emissions",
+    "A2 fire rating; non-combustible core and reliable fire safety",
+    "Long service life; aging/UV/freeze–thaw resistance",
+    "Good acoustic performance in wall assemblies",
+    "Lightweight yet strong; easy handling and installation",
+    "Low water absorption; good freeze–thaw durability",
+    "High cost-performance for façades and retrofits"
+  ],
+  "zh": [
+    "保温隔热性能好，导热系数稳定，整体连续保温",
+    "绿色环保，无甲醛与刺激性气体",
+    "A2 级防火，芯材不燃，系统防火可靠",
+    "耐久寿命长，耐老化、耐候/抗冻融",
+    "墙体构造隔音性能优良",
+    "轻质高强，安装便捷",
+    "吸水率低，抗冻融性能好",
+    "性价比高，适用于新建与改造"
+  ],
+  "ru": [
+    "Высокая теплоэффективность; непрерывный теплоизоляционный контур",
+    "Экологичность, низкие выбросы, без формальдегида",
+    "Класс А2 по пожарной безопасности",
+    "Долговечность: стойкость к старению, УФ и циклам замораживания-оттаивания",
+    "Хорошая звукоизоляция в составе стены",
+    "Лёгкий и прочный; удобен в монтаже",
+    "Низкое водопоглощение и стойкость к морозу",
+    "Выгодное соотношение цена/эффективность"
+  ],
+  "kk": [
+    "Жоғары жылуоқшаулау тиімділігі; үздіксіз оқшаулау контуры",
+    "Экологиялық, төмен VOC, формальдегидсіз",
+    "A2 өрт қауіпсіздігі класы",
+    "Ұзақ мерзімділік: қартаюға, аяз-еріту циклдеріне төзімді",
+    "Қабырға құрамында жақсы дыбыс оқшаулауы",
+    "Жеңіл және берік, орнату ыңғайлы",
+    "Суды аз сіңіреді, аязға төзімді",
+    "Баға/тиімділік қатынасы жоғары"
+  ]
+},
+"considerations": {
+  "en": [
+    "Not load-bearing; use within a certified façade system with anchors/mesh.",
+    "Requires weather-proof finishing; protect cut edges and joints.",
+    "Substrate must be sound, clean and dry; follow mixing/curing specs.",
+    "Avoid thermal bridges at windows, slab edges and fixings.",
+    "Store panels dry and flat; handle large sizes carefully."
+  ],
+  "zh": [
+    "非承重材料，应在认证系统内配套锚固/网格布使用",
+    "需做耐候饰面，切口与拼缝应做好防护处理",
+    "基层需坚实洁净干燥；施工配比与养护需按规范执行",
+    "门窗洞口、楼板边等部位应避免产生热桥",
+    "板材应干燥平放存放，搬运大板需注意防护"
+  ],
+  "ru": [
+    "Материал не несущий — применять только в сертифицированной системе с анкерами/сеткой.",
+    "Требуется атмосферостойкое финишное покрытие; защитить торцы и швы.",
+    "Основание должно быть прочным и сухим; соблюдать регламенты по растворам/выдержке.",
+    "Исключать тепловые мосты в узлах (окна, кромки перекрытий и крепёж).",
+    "Хранить сухо, ровно; бережно обращаться с крупными форматами."
+  ],
+  "kk": [
+    "Тасымалдаушы емес материал — тек сертификатталған жүйеде (анкер/тор) қолдану.",
+    "Ауа-райына төзімді әрлеу қажет; қиықтар мен түйіскен жерлерді қорғау керек.",
+    "Негізі берік, таза және құрғақ болуы тиіс; араластыру/шынықтыру нормаларын сақтау.",
+    "Терезе түйіндері, плиталар шеті, бекітпелерде жылу көпірлерін болдырмау.",
+    "Құрғақ және түзу жерде сақтау; үлкен өлшемді панельдерді ұқыппен тасымалдау."
+  ]
+}
+
+},
+{
+  "id": 202,
+  "slug": "sanyi-color-steel-sandwich",
+  "category": "color-steel-sandwich",
+  "title": {
+    "en": "SANYI Color-Steel Sandwich Panel",
+    "zh": "三亿彩钢夹芯板",
+    "ru": "Сэндвич-панель SANYI с окрашенной сталью",
+    "kk": "SANYI түсті болат сэндвич панелі"
+  },
+  "thumb": "/assets/products/sanyi-color-steel-sandwich-1.jpg",
+  "gallery": ["/assets/products/sanyi-color-steel-sandwich-1.jpg"],
+  "badges": ["Metal-faced", "A2 options", "Fast install"],
+  "specs": {
+  "en": [
+    "Color-coated steel faces + inorganic insulation core",
+    "Continuous lamination/pressing, precise joint profile",
+    "High flatness, concealed fastener options"
+  ],
+  "zh": [
+    "彩涂钢面层 + 无机保温芯材",
+    "连续复合/压制，节点成型精确",
+    "板面平整度高，可选隐藏式扣件"
+  ],
+  "ru": [
+    "Окрашенные стальные обкладки + неорганический утеплитель",
+    "Непрерывное ламинирование/прессование, точная геометрия стыков",
+    "Высокая плоскостность, варианты со скрытым крепежом"
+  ],
+  "kk": [
+    "Түсті болат беттер + бейорганикалық оқшаулағыш өзек",
+    "Үздіксіз ламинация/престеу, түйін геометриясы дәл",
+    "Жазықтығы жоғары, жасырын бекітпе мүмкіндігі"
+  ]
+}
+,
+  "desc": {
+    "en": "SANYI Color-Steel Sandwich Panel combines pre-painted steel facings with an inorganic insulation core to deliver a lightweight, high-strength, and thermally efficient wall/roof panel. Panels are produced by continuous laminating/pressing, followed by curing, cutting and edge profiling (e.g., tongue-and-groove or concealed-fastener joints) for rapid, clean installation and excellent weather resistance.",
+    "zh": "三亿彩钢夹芯板由预涂彩钢面板与无机保温芯材复合而成，具有质量轻、强度高、保温节能与安装快捷等优势。采用连续复合/压制工艺，经过养护、定尺切割与边部榫槽或隐藏式扣件成型，安装高效洁净，耐候性能优良，可用于墙面或屋面系统。",
+    "ru": "Сэндвич-панель SANYI сочетает окрашенные стальные обкладки и неорганический теплоизоляционный сердечник. Лёгкая и прочная панель с высокой теплоэффективностью для стен и кровель. Производится методом непрерывного ламинирования/прессования, далее выдержка, резка и профилирование кромок (шип-паз, скрытый крепёж), что обеспечивает быструю и чистую монтажную технологию и устойчивость к погоде.",
+    "kk": "SANYI түсті болат сэндвич панелі — алдын ала боялған болат беті мен бейорганикалық оқшаулағыш өзектен тұратын жеңіл әрі берік жүйе. Үздіксіз ламинация/престеу, кейін шынықтыру, кесу және шет профилін (тіл-ойық, жасырын бекітпе) қалыптастыру арқылы өндіріледі; орнату жылдам, ауа-райына төзімді."
+  },
+"system": {
+  "en": "Metal-faced sandwich panel system: color-coated steel skins + inorganic insulation core. Panels are continuously laminated/pressed, then cut and edge-profiled (tongue-and-groove or concealed-fastener) for rapid installation on wall/roof sub-frames.",
+  "zh": "金属面夹芯板系统：彩涂钢板面层 + 无机保温芯材。连续复合/压制成型，切割与边部榫槽或隐藏扣件处理，配合次龙骨实现墙/屋面快速安装。",
+  "ru": "Сэндвич-панель с окрашенными стальными обкладками и неорганическим утеплителем. Непрерывное ламинирование/прессование, резка и профилирование кромок (шип-паз/скрытый крепёж) для быстрого монтажа на подсистему.",
+  "kk": "Металл қаптамалы сэндвич панель: алдын ала боялған болат беттері + бейорганикалық өзек. Үздіксіз ламинация/престеу, кейін кесу және шет профилі (тіл-ойық/жасырын бекітпе) — қабырға/шатыр қаңқасына жылдам орнату."
+},
+"advantages": {
+  "en": [
+    "Very fast installation and clean site",
+    "High flatness and neat façade lines",
+    "Concealed-fastener options; good weather resistance",
+    "Thermally efficient with appropriate core thickness",
+    "Compatible with doors/windows and flashing systems"
+  ],
+  "zh": [
+    "安装速度快、施工现场整洁",
+    "板面平整度高、立面线条利落",
+    "可选隐藏式扣件，耐候性能好",
+    "配合合适厚度芯材具备良好节能效果",
+    "与门窗、泛水等构造兼容性好"
+  ],
+  "ru": [
+    "Очень быстрый монтаж, чистая стройплощадка",
+    "Высокая плоскостность, аккуратные фасадные линии",
+    "Варианты со скрытым крепежом; хорошая атмосферостойкость",
+    "Хорошая теплоэффективность при правильной толщине сердечника",
+    "Совместима с узлами дверей/окон и примыканий"
+  ],
+  "kk": [
+    "Өте жылдам монтаж, таза алаң",
+    "Жазықтығы жоғары, фасад сызықтары ұқыпты",
+    "Жасырын бекітпе нұсқалары, ауа-райына төзімді",
+    "Тиісті қалыңдық өзекпен жақсы жылу тиімділігі",
+    "Есіктер/терезелер және жалғасым тораптарымен үйлесімді"
+  ]
+},
+"considerations": {
+  "en": [
+    "Metal skins can dent from impact; protect during logistics/handling.",
+    "Detail joints to avoid thermal bridging and water ingress.",
+    "Cut edges and fasteners must be corrosion-protected.",
+    "Fire rating depends on core and system; follow local code.",
+    "Acoustics are moderate; add acoustic layers if required."
+  ],
+  "zh": [
+    "金属面易受撞击凹陷，运输与吊装需防护",
+    "节点需细化以避免热桥与渗水",
+    "切口与紧固件需做防腐处理",
+    "防火性能与芯材/系统相关，须符合当地规范",
+    "声学性能中等，如需更优可增设吸声层"
+  ],
+  "ru": [
+    "Металлические облицовки подвержены вмятинам — беречь при логистике.",
+    "Узлы стыков должны исключать теплопотери и проникновение воды.",
+    "Срезы и крепёж защищать от коррозии.",
+    "Огнестойкость зависит от сердечника/системы — соблюдать нормы.",
+    "Акустика средняя; при необходимости добавлять звукопоглощение."
+  ],
+  "kk": [
+    "Металл беттері соққыдан майысуы мүмкін — тасымалдау/монтажда қорғау керек.",
+    "Түйісу тораптарын жылу көпірлері мен су өтуді болдырмайтындай жобалау.",
+    "Кесілген жиектер мен бекітпелерге коррозиядан қорғау қажет.",
+    "Өртке төзімділік өзекке/жүйеге байланысты — жергілікті нормаларды сақтау.",
+    "Акустика орташа; қажет болса қосымша дыбыс сіңіргіш қабат қолдану."
+  ]
+}
+
+}
+
+]

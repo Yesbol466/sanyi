@@ -1,0 +1,22 @@
+# --- root .gitignore ---
+# Node
+sanyi-frontend/node_modules/
+sanyi-frontend/dist/
+sanyi-frontend/.env
+sanyi-frontend/.vercel/
+
+# Python
+sanyi-backend/.venv/
+sanyi-backend/__pycache__/
+sanyi-backend/*.pyc
+sanyi-backend/.env
+sanyi-backend/.vercel/
+
+# Local data
+sanyi-backend/sanyi.db
+Database/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
