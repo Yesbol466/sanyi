@@ -13,13 +13,13 @@ const resources = {
         cta_rfq: 'Request a quote',
         footer_rights: 'All rights reserved.',
         contact: {
-          phone_label: 'Phone',
-          email_label: 'Email',
-          address_label: 'Address',
-          phone_display: '+7 707 234 6666',
-          phone_raw: '+77072346666',
-          email: 'shamhanyerlan423@gmail.com',
-          address: 'Kazakhstan, Almaty, Nauryzbay District, Meiram Microdistrict, House 30B, 050052',
+          phone_label: "Phone numbers",
+  phone_display: "CEO: +7 707 234 6666 | Sales: +7 702 274 0605",
+  phone_raw: "+77022740605", // main click target for sales
+  email_label: "Email",
+  email: "shamhanyerlan423@gmail.com",
+  address_label: "Address",
+  address: "Almaty, Kazakhstan, Raimbek District, Melam area, 30B, ZIP 050052",
           map_link: 'https://maps.google.com/?q=Kazakhstan,+Almaty,+Nauryzbay+District,+Meiram+Microdistrict,+30B,+050052'
         }
       },
@@ -78,13 +78,13 @@ Our mission is simple—to help build safer, greener, and more efficient structu
         cta_rfq: '提交询价',
         footer_rights: '保留所有权利',
         contact: {
-          phone_label: '电话',
-          email_label: '邮箱',
-          address_label: '地址',
-          phone_display: '+7 707 234 6666',
-          phone_raw: '+77072346666',
-          email: 'shamhanyerlan423@gmail.com',
-          address: '哈萨克斯坦，阿拉木图市，瑙勒兹拜区，梅拉姆小区，30B号，邮编 050052',
+          phone_label: "电话",
+  phone_display: "总经理: +7 707 234 6666 | 销售部: +7 702 274 0605",
+  phone_raw: "+77022740605",
+  email_label: "邮箱",
+  email: "shamhanyerlan423@gmail.com",
+  address_label: "地址",
+  address: "哈萨克斯坦，阿拉木图市，瑞勒兹拜区，梅拉姆小区，30B号，邮编050052",
           map_link: 'https://maps.google.com/?q=Kazakhstan,+Almaty,+Nauryzbay+District,+Meiram+Microdistrict,+30B,+050052'
         }
       },
@@ -144,13 +144,13 @@ items: '条'
         cta_rfq: 'Запросить коммерческое предложение',
         footer_rights: 'Все права защищены.',
         contact: {
-          phone_label: 'Телефон',
-          email_label: 'Эл. почта',
-          address_label: 'Адрес',
-          phone_display: '+7 707 234 6666',
-          phone_raw: '+77072346666',
-          email: 'shamhanyerlan423@gmail.com',
-          address: 'Казахстан, г. Алматы, Наурызбайский район, мкр. Мейрам, дом 30Б, 050052',
+          phone_label: "Телефоны",
+  phone_display: "Ген. директор: +7 707 234 6666 | Отдел продаж: +7 702 274 0605",
+  phone_raw: "+77022740605",
+  email_label: "Эл. почта",
+  email: "shamhanyerlan423@gmail.com",
+  address_label: "Адрес",
+  address: "г. Алматы, Казахстан, район Райымбек, микрорайон Мелам, д.30B, индекс 050052",
           map_link: 'https://maps.google.com/?q=Kazakhstan,+Almaty,+Nauryzbay+District,+Meiram+Microdistrict,+30B,+050052'
         }
       },
@@ -206,14 +206,13 @@ items: 'тов.'
         cta_rfq: 'Баға сұрау',
         footer_rights: 'Барлық құқықтар қорғалған.',
         contact: {
-          phone_label: 'Телефон',
-          email_label: 'Электрондық пошта',
-          address_label: 'Мекенжай',
-          phone_display: '+7 707 234 6666',
-          phone_raw: '+77072346666',
-          email: 'shamhanyerlan423@gmail.com',
-          address: 'Қазақстан, Алматы қ., Наурызбай ауданы, Мейрам шағын ауданы, 30Б үй, 050052',
-          map_link: 'https://maps.google.com/?q=Kazakhstan,+Almaty,+Nauryzbay+District,+Meiram+Microdistrict,+30B,+050052'
+          phone_label: "Телефондар",
+  phone_display: "Бас директор: +7 707 234 6666 | Сату бөлімі: +7 702 274 0605",
+  phone_raw: "+77022740605",
+  email_label: "Электрондық пошта",
+  email: "shamhanyerlan423@gmail.com",
+  address_label: "Мекенжай",
+  address: "Қазақстан, Алматы қ., Райымбек ауданы, Мелам шағын ауданы, 30B үй, индекс 050052",
         }
       },
       home: { headline: 'Сенімді құрылыс материалдары.', sub: 'Зауыт сапасы · Уақытылы жеткізу · Жобалар.', featured: 'Таңдаулы', categories: 'Санаттар' },

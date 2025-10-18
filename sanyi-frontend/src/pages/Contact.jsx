@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { buildLeadText, openWhatsAppMessage, openSMSMessage } from '../lib/messaging'
 
-const COMPANY_PHONE_RAW = '+77072346666' // WhatsApp/SMS target
+const COMPANY_PHONE_RAW = '+77022740605' // WhatsApp/SMS target
 
 export default function Contact(){
   const { t, i18n } = useTranslation()

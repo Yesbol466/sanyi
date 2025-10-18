@@ -148,7 +148,7 @@ export default function ProductDetail(){
       <OrderCallModal
         open={callOpen}
         onClose={()=>setCallOpen(false)}
-        phone="+77072346666"
+        phone="+77022740605"
         product={product}
       />
     </div>
