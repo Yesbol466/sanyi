@@ -27,33 +27,6 @@
     }
   },
   {
-    "id": 102,
-    "slug": "perlite-board-equipment",
-    "category": "perlite",
-    "title": {
-      "en": "Perlite Insulation Board Equipment",
-      "zh": "珍珠岩保温板设备",
-      "ru": "Оборудование для перлитовых теплоизоляционных плит",
-      "kk": "Перлит оқшаулағыш тақта жабдығы"
-    },
-    "thumb": "/assets/products/vibor-perlite-1.jpg",
-    "gallery": ["/assets/products/vibor-perlite-1.jpg"],
-    "badges": ["Mineral", "Energy efficient"],
-    "specs": {
-  "en": ["Uniform mixing and molding"],
-  "zh": ["均匀混合与成型"],
-  "ru": ["Равномерное смешивание и формование"],
-  "kk": ["Біркелкі араластыру және қалыптау"]
-}
-,
-    "desc": {
-      "en": "Production equipment for mineral perlite insulation boards with stable structure and low water absorption.",
-      "zh": "用于生产珍珠岩保温板的成套设备，结构稳定、吸水率低。",
-      "ru": "Комплекс для производства перлитовых плит: стабильная структура, низкое водопоглощение.",
-      "kk": "Перлит оқшаулағыш тақталарын өндіруге арналған кешен: тұрақты құрылым, су сіңіруі төмен."
-    }
-  },
-  {
     "id": 103,
     "slug": "cement-foamed-board-line",
     "category": "cement-foam",

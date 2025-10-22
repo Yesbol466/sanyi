@@ -13,7 +13,7 @@ export default function Navbar() {
           <img
             src="/assets/logo/sanyi-logo.jpg"
             alt="SANYI"
-            className="h-9 w-auto"
+            className="h-14 md:h-16 w-auto rounded-sm"
           />
           <span className="text-2xl font-bold text-brand hidden sm:inline">
             {t('common.brand')}
