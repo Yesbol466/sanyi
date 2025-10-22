@@ -7,7 +7,8 @@ const images = [
   '/assets/factory/factory-line2.png',
   '/assets/factory/factory-line3.png',
   '/assets/factory/factory-outside1.png',
-  '/assets/factory/factory-outside2.png'
+  '/assets/factory/factory-outside3.png',
+  '/assets/factory/factory-outside4.png'
 ]
 
 export default function Factory(){
