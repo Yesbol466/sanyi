@@ -47,6 +47,67 @@ export default function About(){
           </div>
         </div>
       </AnimatedSection>
+      {/* Certificates Gallery */}
+<AnimatedSection delay={0.08} className="mt-10">
+  <div className="card p-6">
+    <h2 className="font-semibold mb-4">{t('about.certificates_title')}</h2>
+
+    <div className="relative overflow-hidden group">
+      {/* Scrollable container */}
+      <div
+        id="cert-scroll"
+        className="
+          flex gap-6 overflow-x-auto scroll-smooth
+          pb-2
+          snap-x snap-mandatory
+          scrollbar-hide
+        "
+      >
+        {['certificate-1.jpg', 'certificate-2.jpg', 'certificate-3.jpg', 'certificate-4.jpg'].map((file, idx) => (
+          <motion.img
+            key={idx}
+            src={`/assets/licenses/${file}`}
+            alt={`${t('about.certificates_title')} ${idx + 1}`}
+            className="
+              h-72 w-auto rounded-xl border shadow-sm snap-start
+              hover:scale-105 transition-transform duration-200
+            "
+            whileHover={{ y: -4 }}
+          />
+        ))}
+      </div>
+
+      {/* Left arrow */}
+      <button
+        onClick={() => {
+          document.getElementById('cert-scroll').scrollBy({ left: -400, behavior: 'smooth' })
+        }}
+        className="
+          hidden group-hover:flex absolute left-2 top-1/2 -translate-y-1/2
+          bg-white/80 backdrop-blur-sm border rounded-full p-2 shadow
+          hover:bg-white transition
+        "
+      >
+        ←
+      </button>
+
+      {/* Right arrow */}
+      <button
+        onClick={() => {
+          document.getElementById('cert-scroll').scrollBy({ left: 400, behavior: 'smooth' })
+        }}
+        className="
+          hidden group-hover:flex absolute right-2 top-1/2 -translate-y-1/2
+          bg-white/80 backdrop-blur-sm border rounded-full p-2 shadow
+          hover:bg-white transition
+        "
+      >
+        →
+      </button>
+    </div>
+  </div>
+</AnimatedSection>
+
 
       {/* Collaborations card */}
       <AnimatedSection delay={0.1} className="mt-6">
@@ -89,6 +150,7 @@ export default function About(){
           </a>
         </div>
       </AnimatedSection>
+      
     </div>
   )
 }

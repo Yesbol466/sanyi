@@ -29,7 +29,7 @@ export default function Navbar() {
         </nav>
 
         <div className="flex items-center gap-3">
-          <img src="/assets/logo/janbas-logo.jpg" alt="JANBAS" className="h-6 w-auto hidden sm:block" />
+          <img src="/assets/logo/janbas-logo.jpg" alt="JANBAS" className="h-14 md:h-16 w-auto rounded-sm" />
           <LanguageSwitcher />
         </div>
       </div>

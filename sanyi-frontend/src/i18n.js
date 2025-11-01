@@ -6,7 +6,7 @@ const resources = {
   en: {
     translation: {
       common: {
-        brand: 'Sanyi',
+        brand: 'Sanyi Construction Material Co., Ltd',
         nav: { home: 'Home', catalog: 'Catalog', factory: 'Factory', about: 'About', contact: 'Contact' },
         search_placeholder: 'Search materials, categories…',
         cta_visit: 'Request a factory visit',
@@ -17,14 +17,14 @@ const resources = {
   phone_display: "CEO: +7 707 234 6666 | Sales: +7 702 274 0605",
   phone_raw: "+77022740605", // main click target for sales
   email_label: "Email",
-  email: "shamhanyerlan423@gmail.com",
+  email: "CEO: shamhanyerlan423@gmail.com | Sales: 1565276345@qq.com",
   address_label: "Address",
   address: "Almaty, Kazakhstan, Raimbek District, Melam area, 30B, ZIP 050052",
           map_link: 'https://maps.google.com/?q=Kazakhstan,+Almaty,+Nauryzbay+District,+Meiram+Microdistrict,+30B,+050052'
         }
       },
       home: {
-        headline: 'Construction materials, made reliable.',
+        headline: 'New high-quality thermal insulation materials.',
         sub: 'Factory-grade quality, on-time supply, proven projects.',
         featured: 'Featured materials',
         categories: 'Categories'
@@ -61,7 +61,8 @@ Our mission is simple—to help build safer, greener, and more efficient structu
   brands_title: 'Brands',
   collab_title: 'Collaborations & Partners',
   collab_body: 'We partner with established equipment and materials manufacturers. Together with VIBOR (Shandong, China), we deliver supply and commissioning of lines for uniform/perlite and other insulation systems—backed by quality assurance and service.',
-  visit_partner: 'Visit VIBOR website'
+  visit_partner: 'Visit VIBOR website',
+  certificates_title: 'Certificates'
 }
 
 ,
@@ -71,7 +72,7 @@ Our mission is simple—to help build safer, greener, and more efficient structu
   zh: {
     translation: {
       common: {
-        brand: '叁亿',
+        brand: '叁亿有限责任公司',
         nav: { home: '首页', catalog: '产品', factory: '工厂', about: '关于我们', contact: '联系' },
         search_placeholder: '搜索材料、分类…',
         cta_visit: '预约到厂参观',
@@ -82,14 +83,14 @@ Our mission is simple—to help build safer, greener, and more efficient structu
   phone_display: "总经理: +7 707 234 6666 | 销售部: +7 702 274 0605",
   phone_raw: "+77022740605",
   email_label: "邮箱",
-  email: "shamhanyerlan423@gmail.com",
+  email: "总经理: shamhanyerlan423@gmail.com | 销售部: 1565276345@qq.com",
   address_label: "地址",
   address: "哈萨克斯坦，阿拉木图市，瑞勒兹拜区，梅拉姆小区，30B号，邮编050052",
           map_link: 'https://maps.google.com/?q=Kazakhstan,+Almaty,+Nauryzbay+District,+Meiram+Microdistrict,+30B,+050052'
         }
       },
       home: {
-        headline: '可靠的建筑材料。',
+        headline: '新型优质保温材料。',
         sub: '工厂级品质 · 准时交付 · 项目验证。',
         featured: '精选材料',
         categories: '分类'
@@ -126,7 +127,8 @@ items: '条'
   brands_title: '品牌',
   collab_title: '合作与伙伴',
   collab_body: '我们与成熟的设备与材料制造商合作。与山东 VIBOR 携手，提供匀质板、珍珠岩板等保温系统的整线供货与调试服务，并提供质量保障与售后服务。',
-  visit_partner: '访问 VIBOR 官网'
+  visit_partner: '访问 VIBOR 官网',
+  certificates_title: '证书'
 }
 
 
@@ -137,7 +139,7 @@ items: '条'
   ru: {
     translation: {
       common: {
-        brand: 'Саньи',
+        brand: 'ООО «Саньи Строительные Материалы»',
         nav: { home: 'Главная', catalog: 'Каталог', factory: 'Завод', about: 'О нас', contact: 'Контакты' },
         search_placeholder: 'Поиск материалов, категорий…',
         cta_visit: 'Запросить визит на завод',
@@ -148,13 +150,13 @@ items: '条'
   phone_display: "Ген. директор: +7 707 234 6666 | Отдел продаж: +7 702 274 0605",
   phone_raw: "+77022740605",
   email_label: "Эл. почта",
-  email: "shamhanyerlan423@gmail.com",
+  email: " Ген. директор: shamhanyerlan423@gmail.com | Отдел продаж: 1565276345@qq.com",
   address_label: "Адрес",
   address: "г. Алматы, Казахстан, район Райымбек, микрорайон Мелам, д.30B, индекс 050052",
           map_link: 'https://maps.google.com/?q=Kazakhstan,+Almaty,+Nauryzbay+District,+Meiram+Microdistrict,+30B,+050052'
         }
       },
-      home: { headline: 'Надёжные строительные материалы.', sub: 'Качество с завода · Сроки · Реализованные проекты.', featured: 'Рекомендовано', categories: 'Категории' },
+      home: { headline: 'Новые высококачественные теплоизоляционные материалы.', sub: 'Качество с завода · Сроки · Реализованные проекты.', featured: 'Рекомендовано', categories: 'Категории' },
       catalog: { title: 'Каталог' ,all: 'Все',
 empty: 'Нет товаров по текущему фильтру.',
 showing: 'Показано:',
@@ -188,7 +190,8 @@ items: 'тов.'
   brands_title: 'Бренды',
   collab_title: 'Партнёрства и сотрудничество',
   collab_body: 'Мы работаем с признанными производителями оборудования и материалов. Совместно с VIBOR (Шаньдун, Китай) реализуем проекты поставки и пусконаладки линий для匀质板/перлитовых и других теплоизоляционных систем — с гарантированным качеством и сервисом.',
-  visit_partner: 'Сайт партнёра VIBOR'
+  visit_partner: 'Сайт партнёра VIBOR',
+  certificates_title: 'Сертификаты'
 }
 
 
@@ -199,7 +202,7 @@ items: 'тов.'
   kk: {
     translation: {
       common: {
-        brand: 'Sanyi',
+        brand: '«Sanyi Құрылыс Материалдары» ЖШС',
         nav: { home: 'Басты бет', catalog: 'Каталог', factory: 'Зауыт', about: 'Біз туралы', contact: 'Байланыс' },
         search_placeholder: 'Материалдар, санаттар…',
         cta_visit: 'Зауытқа баруға өтініш',
@@ -210,12 +213,12 @@ items: 'тов.'
   phone_display: "Бас директор: +7 707 234 6666 | Сату бөлімі: +7 702 274 0605",
   phone_raw: "+77022740605",
   email_label: "Электрондық пошта",
-  email: "shamhanyerlan423@gmail.com",
+  email: "Бас директор: shamhanyerlan423@gmail.com | Сату бөлімі: 1565276345@qq.com",
   address_label: "Мекенжай",
   address: "Қазақстан, Алматы қ., Райымбек ауданы, Мелам шағын ауданы, 30B үй, индекс 050052",
         }
       },
-      home: { headline: 'Сенімді құрылыс материалдары.', sub: 'Зауыт сапасы · Уақытылы жеткізу · Жобалар.', featured: 'Таңдаулы', categories: 'Санаттар' },
+      home: { headline: 'Жаңа жоғары сапалы жылу оқшаулағыш материалдар.', sub: 'Зауыт сапасы · Уақытылы жеткізу · Жобалар.', featured: 'Таңдаулы', categories: 'Санаттар' },
       catalog: { title: 'Каталог',all: 'Барлығы',
 empty: 'Сүзгі бойынша өнімдер табылмады.',
 showing: 'Көрсетілген:',
@@ -248,7 +251,8 @@ items: 'позиция'
   brands_title: 'Брендтер',
   collab_title: 'Серіктестік және әріптестер',
   collab_body: 'Біз жабдық пен материалдар өндірушілерімен жұмыс істейміз. Шаньдундағы VIBOR компаниясымен бірге біртекті/перлит және басқа да оқшаулау жүйелеріне арналған желілерді жеткізіп, іске қосамыз — сапа кепілдігі және сервистік қолдаумен.',
-  visit_partner: 'VIBOR сайты'
+  visit_partner: 'VIBOR сайты',
+  certificates_title: 'Сертификаттар'
 }
 
 ,
