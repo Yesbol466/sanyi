@@ -63,7 +63,7 @@ export default function About(){
           scrollbar-hide
         "
       >
-        {['certificate-1.jpg', 'certificate-2.jpg', 'certificate-3.jpg', 'certificate-4.jpg'].map((file, idx) => (
+        {['certificate-1.jpg', 'certificate-2.jpg', 'certificate-3.jpg', 'certificate-4.jpg','certificate-5_page-0001.jpg','certificate-5_page-0002.jpg','certificate-5_page-0003.jpg','certificate-5_page-0004.jpg','certificate-6_page-0001.jpg','certificate-6_page-0002.jpg'].map((file, idx) => (
           <motion.img
             key={idx}
             src={`/assets/licenses/${file}`}
